@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+movies.db
+data/
+venv/
+.DS_Store

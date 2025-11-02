@@ -15,7 +15,6 @@ app = FastAPI(title="Movies LLM API", version="0.1.0")
 
 Base.metadata.create_all(bind=engine)
 
-
 def serialize_movie(m: Movie) -> MovieOut:
     return MovieOut(
         id=m.id,

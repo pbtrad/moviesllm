@@ -3,6 +3,5 @@ __pycache__/
 .env
 .vscode/
 movies.db
-data/
 venv/
 .DS_Store

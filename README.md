@@ -45,5 +45,11 @@ Then open:
 { "q": "Recommend action movies from 2010" }
 ```
 
+## Run Unit Tests
+
+```
+python -m unittest
+```
+
 
 
